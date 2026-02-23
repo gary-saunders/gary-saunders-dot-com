@@ -1,12 +1,18 @@
 export const jobsData = [
     { 
-        'date': '2022-Now',
+        'date': '2026-Now',
+        'company': 'Hunter Industries',
+        'description': 'Direct all UX/UI efforts in the software department.',
+        'title': 'Principal UX/UI Engineer'
+    },
+    { 
+        'date': '2022-2026',
         'company': 'Hunter Industries',
         'description': 'Lead the UX/UI efforts in the software department working towards creating and integrating a set of consistent design principles and user interfaces to use in a design system for related company software/apps.',
         'title': 'Senior UX/UI Engineer'
     },
     { 
-        'date': '2019-Now',
+        'date': '2019-2022',
         'company': 'Hunter Industries',
         'description': 'Took on more of a researcher/designer/developer role in the software department advancing the UX/UI efforts for our flagship software while working with cross-functional teams to plan, design, prototype, and implement new software features.',
         'title': 'Front-End Developer'
@@ -35,4 +41,5 @@ export const jobsData = [
         'description': 'Main web developer building websites for an action sports marketing agency working with some well-known brands and professional athletes (Ken Block, Tony Hawk, Flow Snowboards, Camp Woodward, and many more...)',
         'title': 'Web/Flash Developer'
     }
+
 ];
